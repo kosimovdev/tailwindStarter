@@ -1,8 +1,8 @@
 {
   "name": "c",
   "version": "1.0.0",
-  "description": "",
-  "main": "tailwind.config.js",
+  "description": "tailwindcss",
+  "main": "index.js",
   "dependencies": {
     "any-promise": "^1.3.0",
     "anymatch": "^3.1.3",
@@ -81,6 +81,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "kosimovdev",
   "license": "ISC"
 }
